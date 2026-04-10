@@ -1,6 +1,6 @@
 # [level 2] 조건에 부합하는 중고거래 상태 조회하기 - 164672 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/164672?language=mysql) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/164672) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 09일 22:53:11
+2026년 04월 10일 15:17:13
 
 ### 문제 설명
 
